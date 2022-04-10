@@ -735,13 +735,4 @@ elif total_score_p2>total_score_p1:
 else:
     print("It's a tie.")
                 
-####################################################
-# Program: A01_LeeAnnThong.py
-# Course: PSP0101 PROBLEM SOLVING AND PROGRAM DESIGN
-# Class: A01
-# Year: 2019/20 Trimester 1
-# Names: ADELINE_FONG_LI_LING | LEE_ANN_THONG
-# IDs: 1191100708 | 1191100464
-# Emails: 1191100708@student.mmu.edu.my | 1191100464@student.mmu.edu.my
-# Phones: 019-2620596 | 016-8641624
-####################################################
+
